@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelseIdSampleApp", "HelseIdSampleApp\HelseIdSampleApp.csproj", "{1046E297-8750-47B5-8324-DC6E24EB483A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1046E297-8750-47B5-8324-DC6E24EB483A}.Debug|x86.ActiveCfg = Debug|x86
+		{1046E297-8750-47B5-8324-DC6E24EB483A}.Debug|x86.Build.0 = Debug|x86
+		{1046E297-8750-47B5-8324-DC6E24EB483A}.Release|x86.ActiveCfg = Release|x86
+		{1046E297-8750-47B5-8324-DC6E24EB483A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E9D3323-398D-419D-A0F6-D5663CD3CB34}
+	EndGlobalSection
+EndGlobal
